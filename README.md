@@ -1,6 +1,6 @@
 # WebMCQApp
 
 
-Django based WebApp for conducting online MCQ tests.
+-Django based WebApp for conducting online MCQ tests.
 
-Only an inital version.
+-Only an inital version.
